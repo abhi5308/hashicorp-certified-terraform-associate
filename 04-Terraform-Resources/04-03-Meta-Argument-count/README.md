@@ -2,7 +2,7 @@
 
 ## Step-01: Introduction
 - Understand Resource Meta-Argument `count`
-- Also implement count and count index practically 
+- Also implement count and count index practicall
 
 ## Step-02: Create 5 EC2 Instances using Terraform
 - In general, 1 EC2 Instance Resource in Terraform equals to 1 EC2 Instance in Real AWS Cloud
